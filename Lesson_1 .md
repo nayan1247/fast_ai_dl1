@@ -15,7 +15,7 @@
 ### Neural Network Basics
 - An epoch is a single pass through the entire training set which consists of multiple iterations of SGD.
 - a batch or mini-batch is a subset of training samples used in one iteration of Stochastic Gradient Descent (SGD)
--  # of microbatches is # of training samples/# of iterations
+-  `# `of microbatches is # of training samples/# of iterations
 -  data augmentation is a technique to use the same data in a slight different way - horizontal flip, vertical flip, zoom, rotating etc to get additional information from the same image
 -  augmentation can be done on both training and test data sets , and also is named training time augmentation and test time augmentation
 -  activation means A NUMBER
