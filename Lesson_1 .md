@@ -1,6 +1,6 @@
-#Fast AI - Lesson 1
+# Fast AI - Lesson 1
 
-###Introduction to Jupyter Notebook and Dogs vs. Cats 
+### Introduction to Jupyter Notebook and Dogs vs. Cats 
 
 - You can run a cell by selecting it and hitting shift+enter , or you can click on Run button at the top. A cell can contain code, text, picture, video, etc.
 - Fast.ai requires Python 3
